@@ -1,0 +1,1 @@
+Este código foi criado pelo Wagner Leonardi que é desenvolvedor de aplicações para web, especialista nas linguagens ASP.NET C#, Java e PHP. (iMaster: https://imasters.com.br/dotnet/trabalhando-com-updatepanel-no-asp-net)
